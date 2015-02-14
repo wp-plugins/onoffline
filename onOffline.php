@@ -1,14 +1,14 @@
 <?php
 /**
  * @package onOffline
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: onOffline
 Plugin URI: http://wordpress.org/plugins/onOffline/
 Description: Handle internet disconnection of users.
 Author: Plugin Builders
-Version: 0.1
+Version: 0.2
 Author URI: http://plugin.builders/
 */
 
@@ -56,7 +56,7 @@ class WPB_onOffline{
 	public function pageTemplate(){ ?>
 		<div class="wrap wpb-onoff-wrapper">
 			<div id="icon-themes" class="icon32"></div>
-			<h2>onOffline</h2>
+			<h2 class="wpb-logo">onOffline</h2>
 			<div id="wpb-onoff-wrapper">
 				<div id="wpb-onoff-demo" class="pb-relativ">
 					<div><label for="wpb-onoff-simulate"><b>Demo: </b></label><input id="wpb-onoff-simulate" type="checkbox"></input></div>

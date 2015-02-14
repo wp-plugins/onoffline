@@ -3,6 +3,7 @@ Contributors: plugin.builders
 Tags: offline,online, internet, usability, links
 Donate link: http://plugin.builders
 Requires at least: 3.0
+Stable tag: 0.2
 Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
