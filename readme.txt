@@ -1,6 +1,6 @@
 === onOffline ===
 Contributors: plugin.builders
-Tags: offline,online, internet, usability, links
+Tags: offline, online, internet, usability, links, link, alerts, notification, notifications, notify, admin, ajax, reconnect, refresh
 Donate link: http://plugin.builders
 Requires at least: 3.0
 Stable tag: 0.2
